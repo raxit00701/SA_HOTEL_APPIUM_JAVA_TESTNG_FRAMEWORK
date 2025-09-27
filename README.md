@@ -26,7 +26,7 @@ I moved to a stable duo of Pixel 2 and Pixel 9 Pro XL and kept the device matrix
 
 🚀 Key Features
 
-Covered journeys: login and logout, hotel search with filters, profile update, and hotel booking with positive and negative validations.
+Covered journeys: Signin and signup, hotel search with filters, profile update, and hotel booking with positive and negative validations.
 
 Architecture: Page Object Factory with @AndroidFindBy and AppiumFieldDecorator for lazy, resilient elements.
 
