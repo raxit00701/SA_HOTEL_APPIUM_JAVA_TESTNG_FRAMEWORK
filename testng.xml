@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Appium CSV Non-Parallel" verbose="1" parallel="false">
+    <!-- Device/App params (override from CLI with -Dparam=value if needed) -->
+    <parameter name="udid" value="emulator-5554"/>
+    <parameter name="deviceName" value="Pixel 2"/>
+    <parameter name="platformVersion" value="14"/>
+
+    <!-- Run all tests in the 'tests' package -->
+    <test name="All Tests (package: tests)">
+        <packages>
+            <package name="tests"/>
+        </packages>
+    </test>
+</suite>

@@ -1,0 +1,1 @@
+{"uuid":"142ec39b-2c78-4a71-9e3a-02f09a354515","name":"base.MastodonBase.setUp","children":["db31478d-35e7-4bc1-81b3-2fa76fc707ab"],"description":"","befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1758962081624,"stop":1758962108419}],"afters":[],"start":1758962081624,"stop":1758962108420}
