@@ -567,3 +567,15 @@
 2025-09-27 14:10:54.114 INFO  [TestNG-tests-2] RUN - [emulator-5556] Recording discarded (status: SUCCESS): testHotelSearch
 2025-09-27 14:11:06.255 INFO  [TestNG-tests-1] RUN - [emulator-5554] Recording discarded (status: SUCCESS): testHotelSearch
 2025-09-27 14:11:07.925 INFO  [main] RUN - Suite finished: Parallel Devices
+2025-09-27 14:26:41.074 INFO  [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\raxit\AppData\Local\JetBrains\IntelliJIdea2023.1\temp-testng-customsuite.xml
+
+2025-09-27 14:28:13.736 INFO  [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\raxit\AppData\Local\JetBrains\IntelliJIdea2023.1\temp-testng-customsuite.xml
+
+2025-09-27 14:30:22.025 INFO  [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\raxit\AppData\Local\JetBrains\IntelliJIdea2023.1\temp-testng-customsuite.xml
+
+2025-09-27 14:31:13.035 INFO  [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\raxit\AppData\Local\JetBrains\IntelliJIdea2023.1\temp-testng-customsuite.xml
+
